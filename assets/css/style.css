@@ -9,7 +9,7 @@
     ===================
 	
     01. Theme default CSS
-	02. Header CSS
+    02. Header CSS
         02.01 Header
         02.02 Side Header
     03. Hero CSS
@@ -537,7 +537,7 @@ div#fp-nav {
     display: inline-flex;
     position: relative; }
     .header-logo a img {
-      max-width: 100%; }
+      max-width: initial; }
       .header-logo a img.light-logo {
         position: absolute;
         left: 0;
@@ -857,7 +857,7 @@ div#fp-nav {
     line-height: 1;
     position: relative; }
     .side-header-logo a img {
-      max-width: 100%; }
+      max-width: initial; }
       .side-header-logo a img.light-logo {
         position: absolute;
         left: 0;
